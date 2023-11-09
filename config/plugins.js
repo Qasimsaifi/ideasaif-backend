@@ -2,9 +2,9 @@ module.exports = ({ env }) => ({
   "file-system": {
     enabled: true,
   },
-  "strapi-plugin-lottie": {
-    enabled: true,
-  },
+  // "strapi-plugin-lottie": {
+  //   enabled: true,
+  // },
   'editorjs': {
     enabled: true,
   },
